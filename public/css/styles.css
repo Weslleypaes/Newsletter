@@ -1,6 +1,7 @@
 html,
 body {
   height: 100%;
+  background-image: -webkit-linear-gradient(145deg, #a58dfc 50%, #dec9f7 50%);
 }
 
 body {
@@ -46,4 +47,6 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-
+.container-success{
+  background-color: #dec9f7;
+}
